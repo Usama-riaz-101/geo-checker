@@ -66,7 +66,7 @@ This architecture is engineered explicitly for **Vercel** serverless environment
 
 ### Live app
 
-The production site is deployed on Vercel from this repository.
+**Live app:** [geo-checker-lime-eight.vercel.app](https://geo-checker-lime-eight.vercel.app/)
 
 ### 🔑 Required Environment Variables
 
